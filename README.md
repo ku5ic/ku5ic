@@ -17,9 +17,11 @@ I work best on complex frontend problems: refactoring legacy codebases, improvin
 
 ### Battleship
 
-A small but intentional frontend architecture showcase built with React and TypeScript.
+A frontend architecture showcase built with React and TypeScript.
 
-It demonstrates pure domain logic, derived state, accessibility first implementation, and structured AI assisted development workflow.
+It demonstrates framework independent domain design, with shared game logic and state transitions powering both the browser UI and a standalone CLI.
+
+The project focuses on separation of concerns, derived state, accessibility first implementation, and structured AI assisted development with human owned architectural decisions.
 
 Live demo: https://ku5ic.github.io/battleship/
 Repository: https://github.com/ku5ic/battleship
