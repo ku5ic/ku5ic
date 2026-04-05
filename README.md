@@ -2,6 +2,8 @@
 
 Senior Frontend Engineer with 18 years of experience. I specialize in React, Next.js, and TypeScript, with a strong focus on architecture, performance, accessibility, and long-term maintainability. I work best on complex problems: legacy modernization, scalable component systems, and raising product quality without losing pragmatism.
 
+I also write about frontend engineering and software thinking on [Substack](https://substack.com/@ku5ic).
+
 Available for senior remote roles. [CV](https://ku5ic.github.io/cv/) | [LinkedIn](https://www.linkedin.com/in/sinisakusic/) | [Upwork](https://www.upwork.com/freelancers/~013311f3877ee71207)
 
 ---
