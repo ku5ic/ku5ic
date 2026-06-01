@@ -1,6 +1,6 @@
 # Sinisa Kusic
 
-Senior Frontend Engineer with 18 years of experience. I specialize in React, Next.js, and TypeScript, with a strong focus on architecture, performance, accessibility, and long-term maintainability. I work best on complex problems: legacy modernization, scalable component systems, and raising product quality without losing pragmatism.
+Senior Frontend Engineer with 18+ years of experience. I specialize in React, Next.js, and TypeScript, with a strong focus on architecture, performance, accessibility, and long-term maintainability. I work best on complex problems: legacy modernization, scalable component systems, and raising product quality without losing pragmatism.
 
 I also write about frontend engineering and software thinking on [Substack](https://substack.com/@ku5ic) and [Dev.to](https://dev.to/ku5ic).
 
