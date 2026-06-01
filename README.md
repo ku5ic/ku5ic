@@ -21,6 +21,16 @@ Every architectural decision is documented. The Radix UI dependency was removed 
 Live Storybook: https://ku5ic.github.io/nuka-ui
 Repository: https://github.com/ku5ic/nuka-ui
 
+### foxhole
+
+A frontend audit CLI and MCP server that combines Lighthouse, axe-core, a custom semantic checker, and bundle analysis into a single scored report.
+
+The design priority is actionability over numbers. Instead of a raw Lighthouse score, foxhole ranks findings by severity and effort so a failing CI run tells you what to fix first and why. It runs against any URL, local build, or SPA route list, exits non-zero when a score threshold is missed, and produces structured JSON output suitable for diffs across builds.
+
+It also exposes its audit capabilities as MCP tools, making it directly callable from Claude Code and other MCP-compatible agents.
+
+Repository: https://github.com/ku5ic/foxhole
+
 ### Battleship
 
 A frontend architecture showcase built with React and TypeScript.
